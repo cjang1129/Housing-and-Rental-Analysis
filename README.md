@@ -1,5 +1,5 @@
 # Housing-and-Rental-Analysis
-Capital One Data Challenge
+Data Challenge
 
 Project Objective: Given the datasets from Zillow and AirBnB, identify the top five zipcodes in New York that would maximize ROI in the shortest amount of time. These zipcodes would then be recommended to purchase real estate properties that would function as rental properties on AirBnB.
 
